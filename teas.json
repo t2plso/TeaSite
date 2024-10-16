@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Black Tea",
+        "description": "Rich in flavor and a great source of caffeine.",
+        "img": "images/black.png"
+    },
+    {
+        "name": "Green Tea",
+        "description": "Known for its health benefits and antioxidants.",
+        "img": "images/green.png"
+    },
+    {
+        "name": "White Tea",
+        "description": "Light and delicate with a subtle flavor.",
+        "img": "images/white.png"
+    },
+    {
+        "name": "Oolong Tea",
+        "description": "A traditional Chinese tea that is partially oxidized.",
+        "img": "images/oolong.png"
+    },
+    {
+        "name": "Pu-erh Tea",
+        "description": "A fermented tea that has a unique earthy flavor.",
+        "img": "images/pu-erh.png"
+    }
+]
